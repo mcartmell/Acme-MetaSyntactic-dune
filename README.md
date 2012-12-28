@@ -1,4 +1,8 @@
 Acme-MetaSyntactic-dune
 =======================
 
- $ meta dune
+## Usage
+
+```
+$ meta dune
+```
