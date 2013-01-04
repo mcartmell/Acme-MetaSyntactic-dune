@@ -81,8 +81,6 @@ See http://dev.perl.org/licenses/ for more information.
 
 __DATA__
 # names
-AG
-AI
 Abbess
 Abbey
 Abdel
@@ -349,7 +347,6 @@ Classic_Dune
 Claude_Jozziny
 Cleopatra
 Clere_Ruitt
-Coffee
 Cogitor
 Cogitors
 Colonel
@@ -465,7 +462,6 @@ Docent
 Dominic
 Dominic_Vernius
 Dondar_Kooreeg
-Doon
 Doria
 Doris_Bhrazen
 Dorit_Pachtra
@@ -482,8 +478,6 @@ Ducal_ring
 Duchess
 Duke
 Duke_Leto
-Dump_Box
-Dump_box
 Dunamis
 Dunamis_Atreides
 Duncan_Idaho
@@ -495,7 +489,6 @@ Dune_Men
 Dune_Messiah
 Dune_Sequels
 Dune_Universe
-Dune_Wiki
 Dune_World
 Dune_comics
 Dune_universe
@@ -604,7 +597,6 @@ Favo_Bludd
 Faykan_Butler
 Faykan_Corrino
 Fedaykin
-Female_characters
 Fenring
 Ferdinand_Ecaz
 Fernfiber
@@ -1834,7 +1826,6 @@ Willis_McNelly
 Windgap_Sietch
 Windsack
 Windtrap
-Wine
 Wolfram_Moritani
 Worm
 Wormrider
