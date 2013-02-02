@@ -13,7 +13,7 @@ __PACKAGE__->init();
 
 =head1 NAME
 
-Acme::MetaSyntactic::dune - Dune theme.
+Acme::MetaSyntactic::dune - For he is the Kwisatz Haderach
 
 =head1 SYNOPSIS
 
@@ -25,7 +25,7 @@ Acme::MetaSyntactic::dune - Dune theme.
 
 This C<< Acme::MetaSyntactic >> theme contains codenames related to the Dune series.
 
-=head1 THEMES
+=head1 THEMES AND SUBTHEMES
 
 =over 2
 

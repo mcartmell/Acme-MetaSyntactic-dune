@@ -9,31 +9,9 @@ To install this module, run the following commands:
 	make test
 	make install
 
-SUPPORT AND DOCUMENTATION
-
-After installing, you can find documentation for this module with the
-perldoc command.
-
-    perldoc Acme::MetaSyntactic::dune
-
-You can also look for information at:
-
-    RT, CPAN's request tracker (report bugs here)
-        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Acme-MetaSyntactic-dune
-
-    AnnoCPAN, Annotated CPAN documentation
-        http://annocpan.org/dist/Acme-MetaSyntactic-dune
-
-    CPAN Ratings
-        http://cpanratings.perl.org/d/Acme-MetaSyntactic-dune
-
-    Search CPAN
-        http://search.cpan.org/dist/Acme-MetaSyntactic-dune/
-
-
 LICENSE AND COPYRIGHT
 
-Copyright (C) 2012 Mike Cartmell
+Copyright (C) 2013 Mike Cartmell
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of either: the GNU General Public License as published
