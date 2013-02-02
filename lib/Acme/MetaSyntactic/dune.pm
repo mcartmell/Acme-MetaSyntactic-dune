@@ -35,8 +35,6 @@ This C<< Acme::MetaSyntactic >> theme contains codenames related to the Dune ser
 
 =item events
 
-=item fremen
-
 =item fremen_culture
 
 =item houses
@@ -52,6 +50,8 @@ This C<< Acme::MetaSyntactic >> theme contains codenames related to the Dune ser
 =item individuals/females
 
 =item individuals/fish_speakers
+
+=item individuals/fremen
 
 =item individuals/ixians
 
@@ -142,10 +142,8 @@ abomination accadia acolyte alma_mavis_taraza aloana_streggi anirul archives_mot
 blackbird bristleback burrhorse butterfish butterfish centipede desert_hare desert_hawk desert_mouse desert_owl eagle elecran futar gaze_hound hawk heart_scallop kangaroo_mouse kulon laccifera_arctica laza_tiger leech_bat milkbug panther_fish qaraa ruh_yak salusan_bull salusan_tiger sandtrout sandworm scorpion seaworm slarpon slig turtlebug
 # names events
 arbelough arrakis_revolt ascension_of_house assault_on_poritrin assault_on_rossak battle_at_ularda battle_of_arrakeen battle_of_bela_tegeuse battle_of_caladan battle_of_corrin battle_of_earth battle_of_ellram battle_of_englichannel battle_of_giedi_prime battle_of_iv_anbus battle_of_ix battle_of_ix battle_of_peridot_colony battle_of_zimia battles butlerian_jihad butlerian_jihad civil_war famine_times first_golden_age first_hrethgir_rebellion great_convention great_purge great_spice_war great_spice_war honru_massacre kralizec lampadas liberation_of_giedi_prime liberation_of_honru liberation_of_ix liberation_of_parmentier liberation_of_tyndall little_dark_ages rebellion_of_ix rebellion_on_earth return_of_the_honored_matres scattering second_battle_of_ix second_battle_of_zimia second_reunification silicon_plague star_jewel_project time_of_titans tupile_treaty
-# names fremen
-akrab al_baz alia aliid chani_kynes defa_l_fanini duncan_idaho enno farok faroula forad frieth geoff ghanima harah heinar ichwan_bedwine iduali ishmael jafar jamis javid jerath jessica jubba_cloak kaleff kamal_salah karmara_al_jofar korba leto_ii lichna liet_kynes mahdi mahdinate mapes mitha muaddib muaddib ommun otheym pardot_kynes paul ramallo rothar shaitan sheeana_brugh shishakli stilgar the_preacher uliet umma usul warrick zensunni
 # names fremen_culture
-amtal_rule arrakis_revolt baradye_pistol battle_of_arrakeen bi_lal_kaifa cast_out catchbasin cave_of_ridges coffee creosote_bush crysknife deathstill deep_desert desert_mouse eyes_of_ibad fedaykin fremen fremen_funeral_rite fremen_language fremen_wedding fremkit gift_to_the_thirsty jihad maker_hook muaddib_s_jihad mudir naib oral_history paracompass planting_areas sayyadina shadout shai_hulud sietch skull_tomb spice_melange spice_orgy stillsuit stillsuit_shops stilltent tahaddi_challenge the_eyes_of_muaddib thumper wali wandering_zensunni water_of_life water_rings watertube weirding_way wind_etching windtrap yali
+amtal_rule arrakis_revolt baradye_pistol battle_of_arrakeen bi_lal_kaifa cast_out catchbasin cave_of_ridges coffee creosote_bush crysknife deathstill deep_desert desert_mouse eyes_of_ibad fedaykin fremkit gift_to_the_thirsty jihad maker_hook mudir naib oral_history paracompass planting_areas sayyadina shadout shai_hulud sietch skull_tomb spice_melange spice_orgy stillsuit stillsuit_shops stilltent tahaddi_challenge the_eyes_of_muaddib thumper wali wandering_zensunni water_of_life water_rings watertube weirding_way wind_etching windtrap yali
 # names houses
 house_at_tam house_atreides house_corrino house_ecaz house_fenring house_galloway house_ginaz house_hagal house_heiron house_jaederan house_jongleur house_khumali house_major house_masudi house_mcnaught house_metulli house_moritani house_mutelli house_nebiro house_ordos house_pardee house_plana house_rabban house_richese house_taligari house_tantor house_thorvald house_vernius house_wayku
 # names individuals caladanians
@@ -160,6 +158,8 @@ edwina margot_fenring
 accadia alexandra_ecaz alia alra_kio amia_yo anirul annine ardeth aver_yohsa baram barbara_mutelli becca bellonda brigit_paterson bruda_viol calissa camie_boro caree_debrak carlana chalice chamal chani_kynes chaola_fenring chiara cienna cilla_moritani cirni_fenring cleopatra clere_ruitt clio_ii corysta cristane crystane_and_tara daphne darwi_odrade dimela doria doris_bhrazen duana dunamis dunamis edwina elpek elyen emmi_rabban falina faroula fintil firenza_thorvald floriscia_xico frieth gaius_helen_mohiam garimi ghanima gianne_idaho gillian_lieuw glyffa habla hadi_benotto harah harishka hecate helena hellica helmina_berto_anirul hierta hippolute hwi_noree ilesa_ecaz ingva iriel irina_lankiveil irulan jalanto janess_idaho janess_milam janet_roxbrough jehane_golitle jehanne_butler jessica jessica_boro_ginjo josifa juno kailea_vernius karida_julan katarina katarina_omal kiria kohe_tantor kubebe kwyna lanali lenise leronica_tergiet lichna linchine livia_butler lobia logno lovisa_rogier lucilla lucille_tantor luran_geasa mapes marha maria_i marie_fenring marotin mesa_ecaz miral_alchem mitha montemagni muertana_sarobella munoza_chen murbella nathra_kiane nayla niriem norma_cevna nortie_vandego octa_butler omilia oracle_of_time osafa_chram ozza quintinius_violet_chenoeh ramallo rayna_butler rebecca rinya_idaho roella rugi sabanda salusa sanya_ecaz serena_butler shando_vernius sheel_tantor siona steff_young stina_pilru taina tanisia_idaho thora tonia_obregah_xo urania victoria wandra_butler wensicia wensicia_mutelli yuell_onder yuta_brey yvette_hagal
 # names individuals fish_speakers
 ardeth duncan_idaho nayla siaynoq
+# names individuals fremen
+akrab al_baz alia aliid chani_kynes defa_l_fanini duncan_idaho enno farok faroula forad frieth geoff ghanima harah heinar ichwan_bedwine iduali ishmael jafar jamis javid jerath jessica jubba_cloak kaleff kamal_salah karmara_al_jofar korba leto_ii lichna liet_kynes mahdi mahdinate mapes mitha muaddib muaddib ommun otheym pardot_kynes paul ramallo rothar shaitan sheeana_brugh shishakli stilgar the_preacher uliet umma usul warrick zensunni
 # names individuals ixians
 bronso_of_ix cammar_pilru ctair_pilru davee_rogo dmurr_pilru dominic_vernius gaylord_vernius handon hwi_noree individuals ixian jehanne_butler kailea_vernius miral_alchem norma_cevna rhombur_vernius shando_vernius shayama_sen stina_pilru suboid tessia_vernius tio_holtzman urania xerxes yuta_brey zhaz
 # names individuals league_of_nobles_members
