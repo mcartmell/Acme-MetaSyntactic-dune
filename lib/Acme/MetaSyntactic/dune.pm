@@ -17,7 +17,7 @@ Acme::MetaSyntactic::dune - For he is the Kwisatz Haderach
 
 =head1 SYNOPSIS
 
-  meta dune
+	meta dune
 	meta --category individuals dune
 	meta --category individuals/fish_speakers dune
 
