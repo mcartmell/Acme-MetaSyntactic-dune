@@ -120,9 +120,15 @@ Mike Cartmell, C<< <mike at mikec.me> >>
 
 =head1 ACKNOWLEDGEMENTS
 
-Frank Herbert, for writing Dune.
-David Lynch, for directing the amazing film.
-David Buckhurst, for he is the Kwisatz Haderach.
+=over 2 
+
+=item Frank Herbert, for writing Dune.
+
+=item David Lynch, for directing the film.
+
+=item David Buckhurst, for he is the Kwisatz Haderach.
+
+=back
 
 =head1 LICENSE AND COPYRIGHT
 

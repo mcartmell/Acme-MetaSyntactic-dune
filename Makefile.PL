@@ -14,6 +14,9 @@ WriteMakefile(
     PL_FILES            => {},
     PREREQ_PM => {
         'Test::More' => 0,
+				'Acme::MetaSyntactic' => 1.00,
+				'Acme::MetaSyntactic::List' => 1.00,
+				'Acme::MetaSyntactic::MultiList' => 1.00,
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'Acme-MetaSyntactic-dune-*' },
