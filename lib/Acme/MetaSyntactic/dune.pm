@@ -13,7 +13,7 @@ __PACKAGE__->init();
 
 =head1 NAME
 
-Acme::MetaSyntactic::dune - For he is the Kwisatz Haderach
+Acme::MetaSyntactic::dune - For he is the Kwisatz Haderach!
 
 =head1 SYNOPSIS
 
@@ -24,6 +24,9 @@ Acme::MetaSyntactic::dune - For he is the Kwisatz Haderach
 =head1 DESCRIPTION
 
 This C<< Acme::MetaSyntactic >> theme contains codenames related to the Dune series.
+
+There are several subcategories; see below for a full list. The default is
+C<:all>. Codenames can appear in more than one.
 
 =head1 THEMES AND SUBTHEMES
 
@@ -143,7 +146,7 @@ amtal_rule arrakis_revolt baradye_pistol battle_of_arrakeen bi_lal_kaifa cast_ou
 # names houses
 house_atreides house_corrino house_ecaz house_fenring house_galloway house_ginaz house_hagal house_heiron house_jaederan house_jongleur house_khumali house_major house_masudi house_mcnaught house_metulli house_moritani house_mutelli house_nebiro house_ordos house_pardee house_plana house_rabban house_richese house_taligari house_tantor house_thorvald house_vernius house_wayku
 # names individuals caladanians
-brom deegan duncan_idaho elto_vitt estes gurney_halleck helena hoh_vitt jessica kagin kalem kuros leronica leto minos_ix minos_viii minotauros paulos_xvi paulos_xviii philippos_xv swain thufir victor
+brom deegan duncan_idaho elto_vitt estes gurney_halleck helena hoh_vitt jessica kagin kalem kuros leronica leto minos_ix minos_viii minotauros paulos_xvi paulos_xviii philippos_xv swain thufir_hawat victor
 # names individuals cogitors
 arn_eklo kwyna reticulus vidad
 # names individuals counts
