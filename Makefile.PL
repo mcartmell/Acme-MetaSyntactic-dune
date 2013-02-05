@@ -17,6 +17,7 @@ WriteMakefile(
 				'Acme::MetaSyntactic' => 1.00,
 				'Acme::MetaSyntactic::List' => 1.00,
 				'Acme::MetaSyntactic::MultiList' => 1.00,
+				'parent' => 0,
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'Acme-MetaSyntactic-dune-*' },
